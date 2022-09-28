@@ -1,0 +1,4 @@
+version=4
+opts="mode=git, pgpmode=none" \
+ https://github.com/felixonmars/fcitx5-pinyin-zhwiki \
+ refs/tags/@ANY_VERSION@ debian
