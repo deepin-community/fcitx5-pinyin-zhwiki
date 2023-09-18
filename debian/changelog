@@ -1,11 +1,5 @@
-fcitx5-pinyin-zhwiki (0.2.3-1) UNRELEASED; urgency=medium
+fcitx5-pinyin-zhwiki (0.24-20230823-deepin) release; urgency=medium
 
-  [ chenshijie ]
   * Initial release. 
 
-  [ Deepin Input Method Team ]
-  * 
-  [ Debian Input Method Team ]
-  * update
-
- -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 20:32:31 +0800
+ -- xiangzelong <xiangzelong@deepin.org>  Mon, 18 Sep 2023 10:34:06 +0800
